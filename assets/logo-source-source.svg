@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="245pt"
+   height="48pt"
+   viewBox="0 0 245 48"
+   preserveAspectRatio="xMidYMid"
+   id="svg1"
+   sodipodi:docname="logo-source-source.svg"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="85.913474"
+     inkscape:cy="-36.062446"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     showgrid="true"
+     labelstyle="default"
+     showguides="true">
+    <inkscape:grid
+       id="grid1"
+       units="pt"
+       originx="200"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true"
+       snapvisiblegridlinesonly="true"
+       enabled="true" />
+    <sodipodi:guide
+       position="-6,50"
+       orientation="0,-1"
+       id="guide2"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-2,54"
+       orientation="1,0"
+       id="guide3"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-5,-2"
+       orientation="0,-1"
+       id="guide4"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="50,61"
+       orientation="1,0"
+       id="guide5"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-4,37"
+       orientation="0,-1"
+       id="guide8"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="4,5"
+       orientation="0,-1"
+       id="guide9"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="23,37"
+       orientation="1,0"
+       id="guide10"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1">
+Created by potrace 1.10, written by Peter Selinger 2001-2011
+</metadata>
+  <g
+     transform="matrix(0.05,0,0,-0.05,0,48)"
+     fill="#000000"
+     stroke="none"
+     id="g1">
+    <path
+       id="path11"
+       style="stroke-width:11.6465"
+       d="m 481.23387,959.99972 c -153.72539,0.11347 -307.72622,-34.1154 -377.46039,-103.02229 -139.468301,-137.8138 -137.25656,-612.46853 0,-752.95202 137.25658,-140.483487 616.0272,-136.906073 753.28396,0 137.25675,136.90607 137.25675,616.046 0,752.95202 -68.62838,68.45301 -222.09819,102.90882 -375.82357,103.02229 z M 616.35849,747.28588 c 36.08808,-0.27119 73.47094,-8.30714 100.72235,-24.6879 144.54431,-84.82927 131.63031,-410.46146 0,-497.5316 -85.58441,-51.44464 -217.40361,-25.73269 -217.40361,35.89107 0,50.41946 8.59472,65.46391 86.07873,65.46391 h 75.73176 v 147.39618 147.22069 h -75.73176 c -77.48401,0 -86.07873,15.24924 -86.07873,65.66867 0,39.91539 56.53444,61.03097 116.68126,60.57898 z M 176.8162,742.72272 h 139.91813 c 134.52085,0 139.88891,-2.23507 139.88891,-56.01582 0,-50.41943 -8.59471,-65.66867 -86.07874,-65.66867 H 297.67717 V 473.81754 326.42136 h 72.86733 c 77.48403,0 86.07874,-15.04445 86.07874,-65.46391 0,-53.78072 -5.36806,-56.04507 -139.88891,-56.04507 H 176.8162 v 268.90516 z" />
+    <g
+       id="g2"
+       transform="matrix(1.0886052,0,0,1.132518,-45.887238,-71.038236)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1002.51px;font-family:'Young Serif';-inkscape-font-specification:'Young Serif';stroke-width:83.5427"
+       x="1269.9247"
+       y="-86.012474"
+       id="text12"
+       transform="scale(1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Young Serif';-inkscape-font-specification:'Young Serif';stroke-width:83.5427"
+         x="1269.9247"
+         y="-86.012474">Dooksa</tspan></text>
+  </g>
+</svg>
