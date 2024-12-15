@@ -8,7 +8,7 @@ $enable-shadows: true;
 $body-color: #333;
 $body-bg: #fff;
 $border-radius: .4rem;
-$primary: #f2461f;
+$primary: #e72020;
 $font-family-sans-serif: LilGrotesk, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 
 // Required
@@ -27,6 +27,7 @@ $font-family-sans-serif: LilGrotesk, system-ui, -apple-system, "Segoe UI", Robot
 @import "bootstrap/scss/buttons";
 @import "bootstrap/scss/nav";
 @import "bootstrap/scss/navbar";
+@import "bootstrap/scss/alert";
 
 // Helpers
 @import "bootstrap/scss/helpers";
