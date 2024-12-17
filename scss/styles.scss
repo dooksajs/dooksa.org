@@ -4,6 +4,9 @@ $enable-shadows: true;
 // Include functions first
 @import "bootstrap/scss/functions";
 
+// custom fonts
+@import "font";
+
 // Customize some defaults
 $body-color: #333;
 $body-bg: #fff;
